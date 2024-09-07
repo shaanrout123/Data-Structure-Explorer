@@ -1,18 +1,22 @@
-## Getting Started
+# Data Structure Visualizer
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Overview
 
-## Folder Structure
+The **Dynamic Data Visualizer** is a Java application designed to provide real-time visualization of various data structures, including stacks, queues, singly linked lists, doubly linked lists, and binary trees. Users can interact with the visualizer to perform operations like pushing, popping, enqueuing, and adding nodes, with the results displayed dynamically.
 
-The workspace contains two folders by default, where:
+## Features
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- **Data Structures**: Visualize Stacks, Queues, Singly Linked Lists, Doubly Linked Lists, and Binary Trees.
+- **Real-Time Interaction**: Perform operations and see immediate updates in the visualizations.
+- **Dynamic UI**: Control operations through a unified control panel at the bottom of the main window.
+- **Modular Design**: Each data structure visualizer is handled in its own class, allowing for clear and organized code.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Requirements
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- Java 8 or higher
 
-## Dependency Management
+## Installation
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/your-username/dynamic-data-visualizer.git
