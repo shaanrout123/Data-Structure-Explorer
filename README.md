@@ -1,4 +1,4 @@
-# Data Structure Visualizer
+# Data Structure Explorer
 
 ## Overview
 
